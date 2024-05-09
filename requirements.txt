@@ -1,5 +1,9 @@
-ctransformers==0.2.5
+ctransformers
 sentence-transformers==2.2.2
 pinecone-client
 langchain
 flask
+pypdf
+python-dotenv
+
+-e .
